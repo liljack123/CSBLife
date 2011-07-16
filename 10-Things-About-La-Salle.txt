@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>csblife-10thingsaboutLaSalle</title>
+<style>
+</style>
+</head>
+<body>
+<body bgcolor="green">
+<font color="olive green"><center><font size="+4">10 Things About Jean Baptiste De La Salle</font></center><br>
+<hr width="100%" align="center"><br>
+<font size="+1"><font color="white">1. I knew that Saint Jean Baptiste De La Salle is the founder of Institute of the Brothers of the Christian Schools.<br>
+2. He receives the "tonsure" when he was just eleven years old and named "Canon" of Rheims Cathedral when he was sixteen years old.<br>
+3. He was slowly becoming involved in education, even without knowing about it.<br>
+4. He was a pioneer for training lay teachers.<br>
+5. He didn't expected that he will lead an educational affair and would be successful to it.<br>
+6. I knew that the other De La Salle universities on other countries are color blue, not green.<br>
+7. His work spreads quickly through the globe even when he died.
+8. I discovered that there is a street named after La Salle in the Bacolod City and the name of the street was "La Salle Avenue".<br>
+9. There is also a road named "La Salle Road" which is on Hong Kong.<br>
+10. I knew that all the De La Salle institutes all over the globe are purely blessed by Saint Jean Baptiste De La Salle because of his holiness and being one of the most popular Saint all over the world.
+</body>
+</html>
