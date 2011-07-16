@@ -21,6 +21,8 @@
 <center><font size="+2"><font color="yellow">New Assumptions</center></font>
 <p align="center"><font size="+1"><font color="white">I am now a Benildean-Lasallian, so I really want to be a successful person in the name of GDD someday. I will be a great computer designer but before I become like that, I must study to my best limit so that I don't have anything to doubt about when I finished college.</p></font>
 <br>
+THIS IS EDITED
+<br>
 <hr width="100%" align="center">
 </body>
 </html>
