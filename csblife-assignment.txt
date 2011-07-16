@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>csblife-assignment</title>
+<style>
+</style>
+</head>
+<body>
+<body bgcolor="green">
+<font color="olive green"><center><font size="+4">My New Roles, Routines,</font></center><br>
+<font color="olive green"><center><font size="+4">Relationships and Assumptions</font></center>
+<hr width="100%" align="center"><br>
+<center><font size="+2"><font color="yellow">New Roles</center></font>
+<p align="center"><font size="+1"><font color="white">I am now a college student, so that means I now have more roles in life than before. One of those roles is that I must study harder because I'm a college student now. I have to be more focus son studying. And because that I study in De La Salle-College of Saint Benilde, I must give my best so that I have nothing to regret in the end of the activity.</p></font>
+<br>
+<center><font size="+2"><font color="yellow">New Routines</center></font>
+<p align="center"><font size="+1"><font color="white">From now on, I will go straight home after class and I will avoid unnecessary activities like hanging out, walking around or playing computer games. I will spend my time for group activites and projects instead. And because that my residence is far from school, I have to go home as early as I can.</p></font>
+<br>
+<center><font size="+2"><font color="yellow">New Relationships</center></font>
+<p align="center"><font size="+1"><font color="white">Because that I am a college freshman, it means that I will meet my new classmates. And because that I have my new classmates, I will have my new friends and new teachers/professors as well. Studying here at DLS-CSB gives me a great opportunity to know my classmates well so that we can share ideas when we have a chance to work together as a group.</p></font>
+<br>
+<center><font size="+2"><font color="yellow">New Assumptions</center></font>
+<p align="center"><font size="+1"><font color="white">I am now a Benildean-Lasallian, so I really want to be a successful person in the name of GDD someday. I will be a great computer designer but before I become like that, I must study to my best limit so that I don't have anything to doubt about when I finished college.</p></font>
+<br>
+<hr width="100%" align="center">
+</body>
+</html>
