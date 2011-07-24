@@ -1,3 +1,12 @@
 	How do I apply Wozniak's system for myself and for this course?
 
-		
+		Wozniak's system is for remembering things that have been learned. By remembering,
+The way Wozniak remember them is when he is about to forget it. But of course, there's a day cap
+of remembering things before forgetting them.
+
+		I think I can apply this system for myself if there are some things that are very
+important and must be remembered all the time. So I might apply this to myself when that time comes.
+
+		I can apply this to my course, Game Design and Development when we are studying
+about codes, because I think there are different codes that we have to study. And in order to remember
+the codes very well, I might use Github as well, because I think it can be handy to our course.
